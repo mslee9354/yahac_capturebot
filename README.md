@@ -3,3 +3,5 @@
 
 ## 필수모듈 : selenium
 ```pip istall selenium```
+## geckodriver 필수
+https://github.com/mozilla/geckodriver/releases
